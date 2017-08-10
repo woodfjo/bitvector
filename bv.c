@@ -113,5 +113,5 @@ int bv_test()
 		}
 	}
 
-
+	return 0;
 }
